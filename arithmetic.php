@@ -23,8 +23,11 @@ subtract(2, 4);
 multiply(2, 4);
 divide(2, 4);
 
-echo $a + $b;
-echo $a - $b;
-echo $a * $b;
-echo $a % $b;
+
+echo "===calling outside variables===";
+
+echo $a + $b . PHP_EOL;
+echo $a - $b . PHP_EOL;
+echo $a * $b . PHP_EOL;
+echo $a % $b . PHP_EOL;
 
