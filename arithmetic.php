@@ -1,33 +1,37 @@
 <?php
-$a = 10;
-$b = 20;
+
 
 function add($a, $b) {
-    echo $a + $b . PHP_EOL;
+		return $a + $b;
 }
 
 function subtract($a, $b) {
-    echo $a - $b . PHP_EOL;
+    return $a - $b;
 }
 
 function multiply($a, $b) {
-    echo $a * $b . PHP_EOL;
+    return $a * $b;
 }
 
 function divide($a, $b) {
-    echo $a / $b . PHP_EOL;
+	if(is_numeric($a) && is_numeric($b)){
+		if ($b == 0){
+		return false;
+	}
+	return $a / $b;
+	 
+	} else {
+		return false;
+	}
+		
 }
 
-add(2, 4);
-subtract(2, 4);
-multiply(2, 4);
-divide(2, 4);
+if (divide(4, 0)){
+	$massage = divide (4, 0);
+	echo $message;
+} else {
+	echo "error\n";
+}
 
 
-echo "===calling outside variables===";
-
-echo $a + $b . PHP_EOL;
-echo $a - $b . PHP_EOL;
-echo $a * $b . PHP_EOL;
-echo $a % $b . PHP_EOL;
 

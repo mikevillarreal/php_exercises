@@ -1,0 +1,19 @@
+
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|INFO|This is an info message.
+2015-03-18|ERROR|This is an info message.
+2015-03-18|19:57:22|INFO|This is an info message.
+2015-03-18|19:57:22|ERROR|This is an info message.
+2015-03-18|19:57:22|INFO|This is an info message.
+2015-03-18|19:57:22|ERROR|This is an info message.

@@ -1,0 +1,5 @@
+
+2015-03-18 19:53:11|INFO|This is an info message.
+2015-03-18 19:53:11|ERROR|This is an info message.
+2015-03-18 19:53:11|INFO|This is an info message.
+2015-03-18 19:53:11|ERROR|This is an info message.
