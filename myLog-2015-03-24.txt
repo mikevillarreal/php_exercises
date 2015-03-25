@@ -1,0 +1,9 @@
+
+2015-03-24|21:01:25|INFO|This is an informative message.
+2015-03-24|21:01:25|ERROR|This here be an error.
+2015-03-24|21:02:49|INFO|This is an informative message.
+2015-03-24|21:02:49|ERROR|This here be an error.
+2015-03-24|21:03:00|INFO|This is an informative message.
+2015-03-24|21:03:00|ERROR|This here be an error.
+2015-03-24|21:06:02|INFO|This is an informative message.
+2015-03-24|21:06:02|ERROR|This here be an error.

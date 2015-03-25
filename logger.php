@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set("America/Chicago");
 
 function logMessage($logLevel, $message)
 {
@@ -16,5 +17,13 @@ function logMessage($logLevel, $message)
 			
 }
 
-logMessage("INFO", "This is an info message.");
-logMessage("ERROR", "This is an info message.");
+
+function logInfo($message) {
+    logMessage("INFO", $message);
+}
+function logError($message) {
+    logMessage("ERROR", $message);
+}
+logInfo("This is an informative message.");
+logError("This here be an error.");
+
